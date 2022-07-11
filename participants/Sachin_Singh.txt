@@ -1,0 +1,3 @@
+Name    : Sachin Singh
+Age     : 23
+College : IIT BHU
