@@ -1,5 +1,3 @@
 name: Shashwat Bahuguna
 age: 21
 IIT Ropar
-
-
