@@ -1,9 +1,8 @@
 # Add your details below
 Harish Renukunta
 Arvind Singh Kaviya
-Shubham Raj
 Raiyyan Ansari
 Shashwat Bahuguna
 Aakash Lokhande
 Siddhant Sinha
-
+Shubham Raj
